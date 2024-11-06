@@ -1713,6 +1713,22 @@ li.input-li{
   transition-timing-function: ease;
 }
 
+
+//SBIR Dashboard
+.d2d_frame{
+  width: 920px;
+  height: 8800px;
+}
+
+.d2d_frame_m{
+  width: 356px;
+  height: 560px;
+}
+
+.d2d_frame html, .d2d_frame_m html{
+  overflow: hidden;
+}
+
 // SBIR Events
 
 .event-card p, .event-card h1, .event-card h2, .event-card h3, .event-card h4{
