@@ -3,5 +3,6 @@
     "editor.screenReaderAnnounceInlineSuggestion": false,
     "editor.inlineSuggest.showToolbar": "never",
     "editor.inlineSuggest.suppressSuggestions": true,
-    "editor.snippetSuggestions": "none"
+    "editor.snippetSuggestions": "none",
+    "codeQL.githubDatabase.update": "never"
 }
