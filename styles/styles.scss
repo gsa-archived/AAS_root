@@ -549,16 +549,17 @@ a.external_link::after{
 }
 
 .flex-wrapper-big{
+  width: 960px;
   margin: auto;
   display: flex;
 }
 
-.flexCols{
-  flex-direction: column;
+.evenlySpaced{
+  justify-content:space-around;
 }
 
-.flex-wrapper-big{
-  width: 960px;
+.flexCols{
+  flex-direction: column;
 }
 
 @media screen and (max-width: 768px){
